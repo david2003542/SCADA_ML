@@ -1,0 +1,9 @@
+2018*
+2019*
+bin
+include
+lib
+.Python
+.DS*
+*.csv
+pip-selfcheck.json
